@@ -1,0 +1,10 @@
+log/
+slurm-logs/
+__pycache__/**
+dataset/__pycache__/**
+loss/__pycache__/**
+models/__pycache__/**
+wandb/**
+train.sh
+train-isic-dana.sbatch
+figures/
